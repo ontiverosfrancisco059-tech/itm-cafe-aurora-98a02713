@@ -1,0 +1,160 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "hero-banner",
+      "page": "home",
+      "section": "hero",
+      "category": "place",
+      "label": "Restaurante Cafe Aurora fachada al atardecer",
+      "theme": "warm welcoming restaurant exterior",
+      "query": "cozy restaurant facade at sunset warm lighting",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-interior",
+      "page": "home",
+      "section": "about",
+      "category": "place",
+      "label": "Interior acogedor del restaurante",
+      "theme": "warm restaurant interior with ambient lighting",
+      "query": "warm cozy restaurant interior wooden tables ambient lighting",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-dish-1",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Plato fuerte signature del restaurante",
+      "theme": "gourmet plated dish",
+      "query": "gourmet plated dish restaurant presentation top view",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-dish-2",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Ensalada fresca del dia",
+      "theme": "fresh colorful salad",
+      "query": "fresh colorful salad restaurant plating",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-dish-3",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Postre artesanal",
+      "theme": "artisan dessert",
+      "query": "artisan dessert plated restaurant chocolate pastry",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-drinks",
+      "page": "home",
+      "section": "menu",
+      "category": "dish",
+      "label": "Bebidas y cocteles artesanales",
+      "theme": "craft cocktails and beverages",
+      "query": "craft cocktails restaurant bar colorful drinks",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-1",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Vista panoramica del restaurante",
+      "theme": "restaurant panoramic interior view",
+      "query": "restaurant panoramic interior design warm ambiance",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-2",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Mesa preparada para servicio",
+      "theme": "elegant table setting restaurant",
+      "query": "elegant restaurant table setting candles plates",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-3",
+      "page": "home",
+      "section": "gallery",
+      "category": "gallery",
+      "label": "Detalle de decoracion",
+      "theme": "restaurant decor detail",
+      "query": "restaurant interior decor detail rustic modern",
+      "priority": "low",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "location-map",
+      "page": "home",
+      "section": "contact",
+      "category": "place",
+      "label": "Vista de ubicacion del restaurante",
+      "theme": "aerial view restaurant location",
+      "query": "aerial view restaurant location neighborhood",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "menu-bg-texture",
+      "page": "home",
+      "section": "menu",
+      "category": "custom",
+      "label": "Textura de fondo para seccion de menu",
+      "theme": "subtle food texture background",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "footer-pattern",
+      "page": "home",
+      "section": "footer",
+      "category": "custom",
+      "label": "Patron decorativo para pie de pagina",
+      "theme": "subtle geometric restaurant pattern",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "cta-bg",
+      "page": "home",
+      "section": "cta",
+      "category": "custom",
+      "label": "Fondo para llamada a la accion",
+      "theme": "warm gradient restaurant call to action",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
